@@ -1,0 +1,20 @@
+{
+    "podaci":[
+        {
+            "id":1,
+            "ime":"ROKE"
+        },
+        {
+            "id":2,
+            "ime":"BRILE"
+        },
+        {
+            "id":3,
+            "ime":"MARE"
+        },
+        {
+            "id":4,
+            "ime":"ZDENA"
+        }   
+    ]
+}
